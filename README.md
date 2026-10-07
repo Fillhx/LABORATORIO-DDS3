@@ -1,6 +1,13 @@
 # Yu-Gi-Oh! Duel Lite — Laboratorio 1 (DDS3)
 
-Mini-aplicación de escritorio en Java Swing que simula un duelo de Yu-Gi-Oh! entre el jugador y la máquina, con cartas Monster obtenidas en vivo desde la API [YGOProDeck](https://db.ygoprodeck.com/api-guide/). El enunciado completo está en [docs/Laboratorio1.md](docs/Laboratorio1.md).
+## Participantes
+
+| Nombre | Código |
+|---|---|
+| Gustavo Restrepo | 2380618-3743 |
+| Santiago Velasquez Bedoya | 2380378-3743 |
+
+Mini-aplicación de escritorio en Java Swing que simula un duelo de Yu-Gi-Oh! entre el jugador y la máquina, con cartas Monster obtenidas en vivo desde la API [YGOProDeck](https://db.ygoprodeck.com/api-guide/).
 
 ## Ejecución
 
@@ -39,4 +46,14 @@ El código está dividido en cuatro paquetes con responsabilidades separadas: `m
 
 ## Capturas de pantalla
 
-_Pendiente: agregar capturas en `docs/capturas/`._
+### Pantalla inicial
+
+![Pantalla inicial](docs/pantallainicial.png)
+
+### Cartas obtenidas al azar
+
+![Cartas aleatorias cargadas desde la API](docs/cartasrandom.png)
+
+### Duelo en curso
+
+![Duelo en curso](docs/img.png)
